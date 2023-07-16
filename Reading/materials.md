@@ -1,0 +1,23 @@
+### Symbiotic Relationships
+
+A symbiotic relationship is an interaction between two or more species in which one species lives in or on another species. There are three main types of symbiotic relationships: parasitism, commensalism, and mutualism. The first and the third can be key factors in the structure of a biological community; that is, all the populations of organisms living together and potentially interacting in a particular area.
+
+Parasitism is a kind of predator-prey relationship in which one organism, the parasite, derives its food at the expense of its symbiotic associate, the host. Parasites are usually smaller than their hosts. An example of a parasite is a tapeworm that lives inside the intestines of a larger animal and absorbs nutrients from its host. 【Natural selection】【 the process that results in the survival of individuals or groups 【best adjusted to the conditions 【under which they live】】】 favors 【the parasites that are best able to find and feed on hosts】. At the same time, defensive abilities of hosts are also selected for. As an example, plants make chemicals toxic to ==fungal== and bacterial parasites, along with ones toxic to predatory animals (sometimes they are the same chemicals). In vertebrates, the immune system provides a multiple defense against internal parasites.
+
+At times, it is actually possible to watch ==the effects of natural selection in host-parasite relationships==. For example, Australia during the 1940’s was overrun by hundreds of millions of European rabbits. The rabbits destroyed huge expanses of Australia and threatened the sheep and cattle industries. In 1950, myxoma virus, a parasite that affects rabbits, was deliberately introduced into Australia to control the rabbit population. Spread rapidly by mosquitoes, the virus devastated the rabbit population. The virus was less deadly to the offspring of surviving rabbits, however, and it caused less and less harm over the years. Apparently, genotypes (the genetic make-up of an organism) in the rabbit population were selected that were better able to resist the parasite. Meanwhile, the deadliest strains of the virus perished with their hosts a s natural selection favored strains that could infect hosts but not kill them. Thus, natural selection stabilized this host-parasite relationship.
+
+In contrast to parasitism, in commensalism, one partner benefits without significantly affecting the other. Few cases of absolute commensalism probably exist, because it is unlikely that one of the partners will be completely unaffected. Commensal associations sometimes involve one species’ obtaining food that is inadvertently exposed by another. For instance, several kinds of birds feed on insects flushed out of the grass by grazing cattle. It is difficult to imagine how this could affect the cattle, but the relationship may help or hinder them in some way not yet recognized.
+
+The third type of symbiosis, mutualism, benefits both partners in the relationship. Legume plants and their nitrogen-fixing bacteria, and the interactions between flowering plants and their pollinators, are examples of mutualistic association. //In the first case, the plants provide the bacteria with carbohydrates and other organic compounds, and the bacteria have enzymes that act as catalysts that eventually add nitrogen to the soil, enriching it.// In the second case, pollinators (insects, birds) obtain food from the flowering plant, and the plant has its pollen distributed and seeds dispersed much more efficiently than they would be if they were carried by the wind only.// Another example of mutualism would be the bull’s horn acacia tree, which grows in Central and South America. The tree provides a place to live for ants of the genus Pseudomyrmex. The ants live in large, hollow thorns and eat sugar secreted by the tree. The ants also eat yellow structures at the tip of leaflets; these are protein rich and seem to have no function for the tree except to attract ants. The ants benefit the host tree by attacking virtually anything that touches it. They sting other insects and large herbivores (animals that eat only plants) and even clip surrounding vegetation that grows near the tree. When the ants are removed, the trees usually die, probably because herbivores damage them so much that they are unable to compete with surrounding vegetation for light and growing space. 
+
+
+
+The complex interplay of species in symbiotic relationships highlights an important point about communities: Their structure depends on a web of diverse connections among organisms.
+
+
+
+### 2
+
+IR 1. machines 2. inanimate power
+
+textile
