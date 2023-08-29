@@ -1,3 +1,27 @@
+## Climate
+
+precipitation
+
+precipice
+
+fluctuate
+
+intersperse		*sunshine interspersed with showers*
+
+transitive verb 
+
+① (scatter) 散布
+
+​	▸ houses interspersed among the trees 分布在树丛中的房子
+
+​	▸ laughter interspersed between sarcastic comments 夹杂在尖刻话语中的笑声 
+
+② (diversify with other things) 点缀
+
+​	▸ a lawn interspersed with flower beds 点缀着花坛的草坪
+
+​	▸ sunshine **interspersed with showers** 晴间或有阵雨
+
 ## Biology
 
 #### microbe
@@ -94,6 +118,8 @@ gland 腺体
 
 skunk
 
+guts 肠
+
 #### behavior pattern
 
 beak/bill 
@@ -103,6 +129,8 @@ glide 滑行
 dormant 休眠
 
 dart back 逃回
+
+phase 阶段
 
 #### living environment/habitat
 
@@ -224,11 +252,11 @@ landscape
 
 sculpture - sculptor
 
-brushstroke
+brush stroke
 
 perspective 透视法
 
-color platte 调色盘
+color Platte 调色盘
 
 brush
 
@@ -386,3 +414,246 @@ Education
 
 Philosophy
 
+## Astronomy
+
+
+
+celestial body 天体
+
+celesta
+
+spectrum scope
+
+planet 
+
+orbit
+
+mercury
+
+venus 
+
+earth🌍
+
+Mars
+
+Jupiter 
+
+Saturn 🪐
+
+Uranus
+
+fusion 核聚变 hydrogen fusion->helium
+
+milky way
+
+eclipse
+
+comet 彗星☄️
+
+constellation 星座
+
+spiral down 螺旋乘降
+
+zodiac
+
+supernova
+
+boulder 巨石
+
+exoplanet
+
+astronomer
+
+asteroid <img src="./assets/截屏2023-07-17 09.57.36.png" alt="截屏2023-07-17 09.57.36" style="zoom:50%;" />
+
+meteor
+
+meteoroid
+
+meteoroic
+
+meteorite
+
+meteor
+
+crater 陨石坑
+
+infrared<img src="./assets/截屏2023-07-17 12.28.36.png" alt="截屏2023-07-17 12.28.36" style="zoom:50%;" />
+
+ultraviolet
+
+plasma 等离子
+
+pole
+
+conveyor belt
+
+protostar
+
+rip apart 撕开
+
+collision - collide
+
+pristine 崭新的
+
+exert/apply gravitational force/pull
+
+accretion
+
+debris 残骸
+
+Mercury
+
+Roche limit 洛希极限
+
+disintegrate 碎裂，破碎
+
+coalesce
+
+nudge
+
+the orbital shifts
+
+organic compound
+
+water-ice 冰水混合物
+
+cosmos
+
+supernova explosion
+
+## geography
+
+plate tectonics
+
+t
+
+## Anthropology
+
+kinship
+
+ethnocentrism
+
+fieldwork 实地考察
+
+linguistic
+
+archaeology
+
+cultural diffusion
+
+ritual
+
+gender role
+
+cultural identity
+
+globalization
+
+symbolism
+
+indigenous 
+
+
+
+Cambrian trilobite mollusk
+
+Permian Extinction
+
+Jurassic -saurus
+
+Cretaceous Extinction
+
+ 
+
+meteor impact
+
+meteor crater
+
+
+
+Pleistocene paleolithic era glacial 更新
+
+neanderthal  
+
+Homosapien
+
+tribe 部落
+
+Holocene neolithic era interglacial
+
+livestock
+
+husbandry
+
+
+
+## Archaeology
+
+artifact 人工制品
+
+artisan 
+
+sparse populated area
+
+excavation
+
+stratigraphy
+
+Radiocarbon dating
+
+anthropology
+
+lead<img src="./assets/截屏2023-07-19 09.05.35.png" alt="截屏2023-07-19 09.05.35" style="zoom:50%;" />
+
+pottery[陶器/ porcelain ] shards[碎片] 
+
+Ceramic 陶瓷的
+
+glaze enamel
+
+conservation
+
+fossil
+
+paleolithic
+
+neolithic
+
+settlement pattern
+
+relative?energy
+
+isotope<img src="./assets/截屏2023-07-19 09.16.33.png" alt="截屏2023-07-19 09.16.33" style="zoom:50%;" />
+
+migration
+
+hierarchy system
+
+anomaly
+
+cold spell
+
+conveyor ocean belt
+
+pollen
+
+farmstead 农场
+
+aggregated
+
+communal
+
+masonry
+
+storey-stories   
+
+disperse
+
+dismiss
+
+denude
+
+porcelain
+
+cemetery

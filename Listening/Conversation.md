@@ -1,10 +1,18 @@
-### recording1 [library](./音频/S2C1_1.mp3)   
+### recording1 library
 
-### recording2 [parking lot](./音频/S1C1.mp3)
+<audio src="./音频/S2C1_1.mp3"></audio>
 
-### recording3: [dormitory](./音频/S2C1.mp3)
+### recording2 parking lot
 
-### recording4: [bookstore](./音频/S1C1(1).mp3)
+<audio src="./音频/S1C1.mp3"></audio>
+
+### recording3: dormitory
+
+<audio src="./音频/S2C1.mp3"></audio>
+
+### recording4: bookstore
+
+<audio src="./音频/S1C1(1).mp3"></audio>
 
 ![s1p1](./assets/WechatIMG77.png)
 

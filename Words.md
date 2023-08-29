@@ -1,43 +1,13 @@
-## Leisure
 
-### Traveling
-
-itinerary 
-
-needless to make adaptations/compromises/concessions
-
-compromise 
-
-​	a compromise between commercial appeal and historical interest
-
-​	devise a compromise acceptable to both	
-
-==budget-friendly== accommodation
-
-shared apartments 共享公寓
-
-hostels 青年旅舍
-
-flight delays cancellation
-
-broaden one's perspective/horizon
-
-detour 绕行<img src="./assets/截屏2023-07-08 11.42.19.png" alt="detour" style="zoom:50%;" />
-
-historic sites
-
-Roman Colosseum
-
-handmade crafts
-
-cuisine
 
 ## Conjunction
 
 ### moreover
 
 * plus
-* addtional
+* addtional、
+* furthermore
+* what's more
 
 ### compare
 
@@ -52,7 +22,15 @@ cuisine
 
 * likewise, similarly
 
+i approve to send children to public school
 
+when
+
+children can improve
+
+to learn from others, they can learn, self-discipline, by contrast
+
+create more opportunities  for students to improve
 
 1. Similarly, both [X] and [Y] share...
 2. In contrast to [X], [Y]...         *In contrast to hot weather, cold weather requires additional layers of clothing for warmth.*
@@ -161,7 +139,33 @@ prestige - prestaigious
 
 ## Point of View
 
-I share ...'s idea.
+agree：
+
+1. I concur with Lily.
+2. I share Lily's viewpoint.
+3. Lily has my full support.
+4. I'm of the same mind as Lily.
+5. Lily's opinion aligns with mine.
+6. I'm on board with Lily's perspective.
+7. Lily and I are in accord.
+8. I endorse Lily's stance.
+9. I echo Lily's sentiments.
+10. Lily's position resonates with me.
+
+disagree：
+
+1. I beg to differ with Lily.
+2. I have a different opinion from Lily.
+3. I hold a contrasting viewpoint to Lily.
+4. I'm not in agreement with Lily.
+5. Lily and I see things differently.
+6. I respectfully disagree with Lily.
+7. I have reservations about Lily's perspective.
+8. I diverge from Lily's stance.
+9. I'm of a dissenting opinion from Lily.
+10. I respectfully challenge Lily's position.
+
+
 
 ## lots of
 
@@ -170,7 +174,7 @@ I share ...'s idea.
 3. Innumerable: Similar to "countless," this term indicates a vast quantity that cannot be precisely counted. For example, "There are innumerable stars in the night sky."
 4. Myriad: This word conveys an immense number or variety. For instance, "She has a myriad of responsibilities at work."
 5. Abundance: This term describes a plentiful or copious amount of something. For example, "The garden is filled with an abundance of beautiful flowers."
-6. Overflowing: This word suggests that a container or space is filled to capacity and cannot hold any more. For instance, "The shelves are overflowing with books."
+6. Overflowing: This word suggests that a container or space is filled to capacity and cannot hold anymore. For instance, "The shelves are overflowing with books."
 7. Copious: This term refers to a large or abundant supply of something. For example, "He took copious notes during the lecture."
 8. Extensive: This word indicates a vast or comprehensive amount of something. For instance, "The project required extensive research."
 9. Ample: This term describes a plentiful or generous amount of something. For example, "We have ample time to complete the task."
@@ -180,8 +184,82 @@ I share ...'s idea.
 
 ## negative
 
-detrimental *the erosion will have a detrimental effect on water quality*
+detrimental<img src="./assets/截屏2023-07-16 14.48.37.png" alt="截屏2023-07-16 14.48.37" style="zoom:50%;" /> *the erosion will have a detrimental effect on water quality*
 
 harmful
 
+adverse
+
+
+
 damaging, injurious, hurtful, inimical, deleterious, dangerous, destructive, ruinous, calamitous, disastrous, pernicious, environmentally unfriendly, ill, bad, evil, baleful, malign, corrupting, malignant, adverse, undesirable, prejudicial, unfavorable, unfortunate, counterproductive; unhealthy, unwholesome, poisonous, cancerous, noxious, deadly, lethal, fatal; *literary* malefic, maleficent; *rare* prejudicious. ANTONYMS benign; beneficial
+
+
+
+## disadvantage
+
+drawback
+
+downside
+
+deficiency
+
+## problem
+
+complication
+
+issue
+
+inconsistency
+
+## complement
+
+get worn away 磨损
+
+wear out - worn out
+
+wear off
+
+kick in
+
+wear away
+
+wear and tear 
+
+start from scratch 
+
+scratch away
+
+## firstly
+
+Firstly,
+
+First off,
+
+For starters,
+
+
+
+secondly
+
+
+
+thirdly
+
+finally
+
+
+
+## agree
+
+agree with/that
+
+prefer to do/doing
+
+## quantities
+
+a couple of seconds
+
+tens of minutes
+
+bucks

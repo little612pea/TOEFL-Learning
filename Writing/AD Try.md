@@ -28,7 +28,26 @@ I stand by Claire. I would like to add one contributing factor: breakthroughs of
 
    
 
+<img src="./assets/截屏2023-07-16 14.23.40.png" alt="截屏2023-07-16 14.23.40" style="zoom:50%;" />
 
+I partially agree with Justin's opinion when he mentions the low efficiency of field trips. However, I believe the unique experiences are worth taking the time, and their advantages outweigh the drawbacks. Field trips immerse pupils in a certain atmosphere and offer them special learning experiences that quite differ from ==traditional classroom settings==. These experiences can be highly ==engaging and memorable==, enhancing the ==educational process==. For example, children can go to china studios to learn about the development of china <font color="red">*instead of a regular art class in the classroom*</font>. Through creating and painting the china in hand, they obtain the interest of crafting things and get aesthetic improvement. Due to the comparatively small size, the lack of equipment and other limitations, it is relatively hard for them to do the work in the classroom. Not only do the students learn ==the intricate process== of china making, but they also learn the ==wisdom and dedication== of their ancestors who created the china. What's more field trips offer chances for pupils to practice the knowledge learned from classes and apply it ==in real-world situations==, which is definitely good for their growth. Therefore, field trips can be ==a valuable component of a well-rounded education.==
 
->
+<font color="red"> instead of是修饰语，修饰成分要就近与被修饰成分。这么写读起来像development of china instead of a regular art class。这里可以改成children can learn about the development of china during a visit to china studios instead of by attending a regular art class. </font>
 
+In conclusion, field trips offer unique educational experiences that ==go beyond the confines of the classroom==. 
+
+They provide opportunities for ==hands-on learning, engagement with real-world contexts, and the application of knowledge==. While there may be some logistical challenges and limitations, the benefits of field trips outweigh the drawbacks, making them a valuable component of a well-rounded education.
+
+<img src="./assets/截屏2023-07-16 17.08.53.png" alt="截屏2023-07-16 17.08.53" style="zoom:50%;" />
+
+Sara's opinion aligns with mine. Not only do the chances of being admitted increase when introduced by an acquaintance, but the credibility of the job quality is also comparatively high. Friends or relatives who introduce job opportunities may have ==personal insights into the position they recommend==, knowing the future prospects and other important information that is rarely known by outsiders. For example, I had the opportunity to secure an internship through my father's friend who works in the semiconductor industry. Given his years of experience in the field, <font color="red">he provided me with valuable guidance</font> and shared knowledge about the industry. During the three-month internship, I gained a deep understanding of the industry and learned a great deal from the experience. Furthermore, acquaintances who know you well are more likely to recommend job opportunities that are suitable for your skills and aspirations. They have a better understanding of your strengths and can suggest positions that align with your career goals, ensuring that your job search is more targeted and satisfying. In conclusion, leveraging personal connections can significantly enhance job search outcomes.
+
+<font color="red">这一句话感觉没有体现出来哪些valuable guidance，比如he knew which firm released job vacancies at what time of a year, and he referred me to a high-ranking firm.</font>
+
+Sara's opinion aligns with mine. Not only do **the chances of being admitted** increase when introduced by an acquaintance, but **the credibility of the job quality** is also comparatively high. Friends or relatives who introduce job opportunities may have **personal insights into the positions** they recommend, including knowledge about **future prospects** and other important information that may not be widely **known by outsiders**.
+
+For instance, I had the opportunity to **secure an internship** through my father's friend who works in the semiconductor industry. **Given his years** of experience in the field, he provided me with valuable guidance and shared insights about the industry. During the three-month internship, I gained a deep understanding of the industry and learned **a great deal** from the experience.
+
+Furthermore, acquaintances who know you well are more likely to recommend job opportunities that are suitable for your skills, interests, and aspirations. They have a better understanding of your strengths and can suggest positions that align with your career goals, ensuring that your job search is **more targeted and satisfying**.
+
+In conclusion, **leveraging personal connections and recommendations from** acquaintances can significantly enhance job search outcomes. Not only do these connections offer valuable insights and knowledge, but they also provide opportunities that are specifically ==tailored to your needs==. When seeking employment in a new city, it is beneficial to tap into your network and explore job leads introduced by friends and relatives to increase the likelihood of finding a job that meets your requirements and aspirations. (266 words)

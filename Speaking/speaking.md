@@ -5,11 +5,32 @@
 ### 流程
 
 * 审题
+
+  关键词，
+
+  抽象词，具象化
+
 * 观点（好说）
+
 * 展开
   * 正反
   * 角度
   * 客主观
+
+ARE Answer-Reason-Evidence
+
+From
+
+1. In my opinion...
+2. From my perspective...
+3. I believe that...
+4. It seems to me that...
+5. Personally, I think...
+6. I would argue that...
+7. If you ask me...
+8. The way I see it...
+9. In my view...
+10. It's my contention that...
 
 ### 分类
 
@@ -23,6 +44,12 @@
 * Senior citizens
 
 #### Children
+
+
+
+
+
+
 
 ##### purpose
 
@@ -43,6 +70,12 @@ do for their future
 * struggle with finding solutions independently
 * develop social skills, not understanding social cues
 * be susceptible to negative influence
+
+live performance
+
+I belive money-consuming, price of tickets is always high hundreds of bucks even thousands of ,as a poor student, i cannot afford such a large amount of money
+
+also crowded,not so enjoyable,  take concerts of famous vocal stars, tens of thousands people crowded in certain place, unpleasant smell and unclean environtment, in this case i prefer the comfortable 
 
 ##### electronic devices
 
@@ -103,7 +136,7 @@ children
 
 两者比较结构：
 
-* point of view: better idea/ the money will be more worthier
+* point of view: better idea/ the money will be worthier
 
 * 讲garden的好处
 
@@ -136,7 +169,7 @@ not know much about the world
 
 take in whatever
 
-I think aggressiveness for me, it means an eager to win...
+I think aggressiveness for me, it means an eagerness to win...
 
 ever since he got into the 
 
@@ -145,8 +178,6 @@ example frank
 讲解关键词->
 
 say->举例子，具体的例子
-
-##### 
 
 ##### domestic skills
 
@@ -187,6 +218,16 @@ mowing the lawn, 要不要花时间
 * 例子
 
 #### Young Adults
+
+##### remote studying
+
+online classes/traditional classes
+
+a. time 
+
+b. money
+
+c. flexibility
 
 ##### aesthetic
 
@@ -345,6 +386,10 @@ add to my expences
 
 cars fueled by gas
 
+#### 万能理由
+
+
+
 ## Intergrated Tasks
 
 the quality, c
@@ -386,11 +431,11 @@ because,
 
 * And/however, the woman/man agrees/disagrees with the proposal/plan for two reasons.
 
-* First she/he believes...   good idea/bad idea appropriate/inappropriate
+* First she/he believes...   lovely/good idea/bad idea appropriate/inappropriate
 
   * by saying... //because...
 
-  * 细节, if, 举例子: and everything
+  * 细节, if, 举例子: and everything, or anything
 
   * so if this change takes place, students will 
 
@@ -400,7 +445,7 @@ because,
 
 * Therefore, because of these two reasons, the woman/man agrees/disagrees with the proposal/plan. (Optional)
 
-
+it's not like + 句子
 
 ### Task 3 
 
@@ -414,13 +459,13 @@ TOEFL三种类型:
 
 
 
-mechanism<img src="./assets/截屏2023-07-13 09.30.09.png" alt="截屏2023-07-13 09.30.09" style="zoom:36%;" />
+mechanism<img src="./assets/截屏2023-07-13 09.30.09.png" alt="截屏2023-07-13 09.30.09" style="zoom:50%;" />
 
 pattern of thinking
 
 phenomenon
 
-hypothesis<img src="./assets/截屏2023-07-13 11.28.53.png" alt="截屏2023-07-13 11.28.53" style="zoom:37%;" />
+hypothesis<img src="./assets/截屏2023-07-13 11.28.53.png" alt="截屏2023-07-13 11.28.53" style="zoom:50%;" />
 
 * _________________________ is ____________________________________________
 
@@ -445,6 +490,19 @@ Philosophy
 
 
 ### Task 4
+
+* (term) means...  and in the listening the professor talked about two ... that/of...
+* the first ... is ... e.g. ... so ... so as to...
+* the second...
+
+take ... again as an example
+
+
+
+
+
+
+
 
 
 

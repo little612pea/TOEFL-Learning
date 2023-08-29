@@ -23,3 +23,19 @@
 ![1671689312492_.pic](./assets/1671689312492_.pic.jpg)
 
 ![1681689312504_.pic](./assets/1681689312504_.pic.jpg)
+
+### Lecture Astronomy
+
+<audio src="./音频/astronomy.mp3"></audio>
+
+![2061689585350_.pic](./assets/2061689585350_.pic.jpg)
+
+![2071689585363_.pic](./assets/2071689585363_.pic.jpg)
+
+### Earth Sicence
+
+<audio src="./音频/S2L1.mp3"></audio>
+
+![2381689761894_.pic](./assets/2381689761894_.pic.jpg)
+
+![2391689761904_.pic](./assets/2391689761904_.pic.jpg)

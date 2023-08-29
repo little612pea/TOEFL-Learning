@@ -1,5 +1,9 @@
 # Listening
 
+## 关键词句
+
+Cool. Anyway, um, the reason I came by is...
+
 ## criteria
 ### Office hour conversation
 * take place in a professor’s office
@@ -166,57 +170,42 @@ intro- age, story
 
 #### 转折
 
-\* However、 but 、 although、 though、 whereas、nevertheless
-
-\* ﻿最开始类：traditionally、initially、 originally、in
-
-the beginning. at first
-
-\* ﻿过去类：Used to、thought、 believed 、 it was
-
-thought, it was believed
-
-\* ﻿频率类：Usually、generally、frequently、
-
-\* ﻿部分类：some、most 、many、a lot of
-
-\* ﻿当然类：of course、certainly、sure
-
-\* ﻿声称类：claim、speculate、hypothesize
+* However、 but 、 although、 though、 whereas、nevertheless
+* 最开始类：traditionally、initially、 originally、in the beginning. at first
+* 过去类：Used to、thought、 believed 、 it was thought, it was believed
+* ﻿频率类：Usually、generally、frequently、
+* 部分类：some、most 、many、a lot of
+* 当然类：of course、certainly、sure
+* 声称类：claim、speculate、hypothesize
 
 ####  **例子**
 
-• For example, for instance, take... for instance, like, take, say, consider, imagine
-
- 
+* For example, for instance, take... for instance, like, take, say, consider, imagine
 
 #### **比较对比**
 
-• Distinguish, differentiate, compare, contrast, like, unlike, analogue, analogous
-
- 
+* Distinguish, differentiate, compare, contrast, like, unlike, analogue, analogous
 
 #### **概念与解释推论**
 
-• Means, called, named,known as, refer to, is
-
-·I mean, you see, which means, it suggests, implies, indicates
+* Means, called, named,known as, refer to, is
+* I mean, you see, which means, it suggests, implies, indicates
 
  
 
 #### **强调**
 
-Adj.
+##### Adj.
 
-• Interesting , important , surprising, strange, fascinating, remarkable, intriguing, unusual, particular
+* Interesting , important , surprising, strange, fascinating, remarkable, intriguing, unusual, particular
 
-N.
+##### none
 
-• Key, the point, the thing
+* Key, the point, the thing
 
-V.
+##### V.
 
-• Stress, emphasize, notice, remember, keep in mind
+* Stress, emphasize, notice, remember, keep in mind
 
  
 
@@ -228,15 +217,14 @@ problem, complication, limitation, puzzling, baffling, confounding, confusing
 
 #### **因果**
 
-• Reason, factor, due to, because, because of, be caused by, cause, so, as a result, consequently...
+* Reason, factor, due to, because, because of, be caused by, cause, so, as a result, consequently...
 
  
 
 #### **态度（+-/×)**
 
-\* ﻿最简单的是 in my opinion, I think..
-
-\* ﻿很多时候出现句子或一些动词形容词来表示态度，比如 we need more evidence, only time will tell, it's hard to tell, speak out against it, reject, embrace...
+* 最简单的是 in my opinion, I think...
+* 很多时候出现句子或一些动词形容词来表示态度，比如 we need more evidence, only time will tell, it's hard to tell, speak out against it, reject, embrace...
 
 
 

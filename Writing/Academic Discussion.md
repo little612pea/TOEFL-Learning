@@ -135,6 +135,12 @@ Communication technologies paced up humans' life and to some extent make modern 
 
 Communication technologies have accelerated the pace of human life, but they have also ==contributed to increasing levels of anxiety==. One example is the expectation for employees to be available and responsive to their bosses even outside of working hours or during vacations. This ==inadvertently extends== employees' working time and imposes an additional workload on them. Consequently, they are unable to escape the constant supervision of their superiors, leading to ==mounting stress levels==. While these technologies have undoubtedly enhanced communication efficiency, they have also had a ==detrimental impact== on individuals' personal lives, making them ==more susceptible to disruptions==.
 
+<p><font color="deep orange"></p>
+<p>I have the same opinion as Leonard. It is indeed crucial for us to stay informed about global news. 【补充一个理由】Let me take myself as an example. I bought some financial products without adequately understanding the policies and political situations worldwide. It makes me lose money as the Russia-Ukraine conflict broke up. Had I read some passages analyzing the news around the world and stayed updated on international news, I would have made wiser investment decisions. The globalization enforces us to keep up with the latest news, or we may suffer losses and miss chances. The time spent to learn the world is quite worthy in this perspective.</p>
+<p>第一句话是立场/态度，第二句话开始举例。中间需要添加一个理由来过渡一下，为什么应该stay informed about global news呢？这样做能为你带来什么好处呢？比如可以写</p>
+<p>The more insights you gain about international situation, the wiser decisions you will make.</p>
+<p> </font></p>
+
 
 
 
@@ -229,19 +235,20 @@ Though the increase in salary can improve the
 
 ## official advice
 
-**Writing Practice Set 2: (Academic Discussion)** -- Response Tips 
-
-To earn a top score, you should state and support your opinion about whether education or environmental protections should be the priority for governments to spend money on. Your response is a contribution to the other two students’ posts in an online discussion for the class. Be sure to ==add your own perspective to the discussion==, not merely repeat ideas that have already been stated. Typically, an effective response will contain a minimum of 100 words. 
-
-You might agree with Kelly that environmental protections should be the priority. You will need to add your own support for this viewpoint. For example, you could argue that environmental protections are a more important investment to sustain our economies. You could point out that governments currently spend a great deal of money compensating for climate change catastrophes such as increased flooding, wind damage, or ruined crops. Investing more in environmental protections now could actually save governments money later on—which could then be used for more education funding. This would differ from the support Kelly gave for her opinion. 
-
-If you agree with Andrew that education should be the bigger priority, you could add to his argument by pointing out the amount of research that universities conduct—not only on solving environmental problems, which Andrew alluded to, but also on treating diseases, creating useful technology, and developing sustainable agriculture. Therefore, education funding has a bigger overall impact on improving human lives than investment in environmental protections only. This would be a meaningful addition to the support Andrew provided for his opinion. 
-
-You may find you agree with a point Kelly made about the environment even though you think education is more important. Or you might even find that your opinion about government priorities depends on certain factors—that education should be a priority in some circumstances, environmental protections in others. This is perfectly acceptable as long as you explain and support your reasoning. There is no “correct” answer to the question. The important part of this task is to make sure that you state your opinion and provide reasonable, relevant support for it in a way that makes a meaningful contribution to the online discussion. Try to develop your opinion as well as you can within the time limit. A well-developed response will contain clearly appropriate reasons, examples, and details—ones that do a good job supporting or illustrating your own viewpoint. 
-
-The quality and accuracy of the sentence structure and vocabulary you use to express your ideas is also very important and part of what is considered when your response is scored. The task context—a post to an online discussion group—is not quite as informal as you might think. While the task asks you to contribute to a discussion with fellow students, imagine that the professor would also be reading your post. It is true that your tone might be more casual than what you would use in an academic paper, but you should still follow standard grammar rules. Also, if disagreeing with another student post, be sure to express your disagreement in a respectful way as you would in a real online discussion. 
-
-This task is scored using the [Academic Discussion Rubric](https://www.ets.org/pdf/toefl/toefl-ibt-writing-rubrics-enhanced.pdf ).
+> **Writing Practice Set 2: (Academic Discussion)** -- Response Tips 
+>
+> To earn a top score, you should state and support your opinion about whether education or environmental protections should be the priority for governments to spend money on. Your response is a contribution to the other two students’ posts in an online discussion for the class. Be sure to ==add your own perspective to the discussion==, not merely repeat ideas that have already been stated. Typically, an effective response will contain a minimum of 100 words. 
+>
+> You might agree with Kelly that environmental protections should be the priority. You will need to add your own support for this viewpoint. For example, you could argue that environmental protections are a more important investment to sustain our economies. You could point out that governments currently spend a great deal of money compensating for climate change catastrophes such as increased flooding, wind damage, or ruined crops. Investing more in environmental protections now could actually save governments money later on—which could then be used for more education funding. This would differ from the support Kelly gave for her opinion. 
+>
+> If you agree with Andrew that education should be the bigger priority, you could add to his argument by pointing out the amount of research that universities conduct—not only on solving environmental problems, which Andrew alluded to, but also on treating diseases, creating useful technology, and developing sustainable agriculture. Therefore, education funding has a bigger overall impact on improving human lives than investment in environmental protections only. This would be a meaningful addition to the support Andrew provided for his opinion. 
+>
+> You may find you agree with a point Kelly made about the environment even though you think education is more important. Or you might even find that your opinion about government priorities depends on certain factors—that education should be a priority in some circumstances, environmental protections in others. This is perfectly acceptable as long as you explain and support your reasoning. There is no “correct” answer to the question. The important part of this task is to make sure that you state your opinion and provide reasonable, relevant support for it in a way that makes a meaningful contribution to the online discussion. Try to develop your opinion as well as you can within the time limit. A well-developed response will contain clearly appropriate reasons, examples, and details—ones that do a good job supporting or illustrating your own viewpoint. 
+>
+> The quality and accuracy of the sentence structure and vocabulary you use to express your ideas is also very important and part of what is considered when your response is scored. The task context—a post to an online discussion group—is not quite as informal as you might think. While the task asks you to contribute to a discussion with fellow students, imagine that the professor would also be reading your post. It is true that your tone might be more casual than what you would use in an academic paper, but you should still follow standard grammar rules. Also, if disagreeing with another student post, be sure to express your disagreement in a respectful way as you would in a real online discussion. 
+>
+> This task is scored using the [Academic Discussion Rubric](https://www.ets.org/pdf/toefl/toefl-ibt-writing-rubrics-enhanced.pdf ).
+>
 
 
 
